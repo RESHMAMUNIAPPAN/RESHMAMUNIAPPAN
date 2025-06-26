@@ -16,7 +16,7 @@
 ##  🔧 Skills
 
 **LANGUAGES**
-<br>Intermediate: Java | HTML | CSS | JS
+<br>Intermediate: Java | HTML | CSS | JS 
 <br>Beginner: MongoDB | NodeJS <br>
 **TOOLS TECHNOLOGIES**
 <br>Framework: Uipath | Flutter | React
@@ -27,7 +27,7 @@
 ## 🎓 Education
 
 **KSR College of Technology**  
-_B.Tech in Information Technology | Tiruchengode, Tamil Nadu | GPA: 8.58_  
+_B.Tech in Information Technology | Tiruchengode, Tamil Nadu | GPA: 8.63_  
 
 
  ## 📫 How to reach me 
