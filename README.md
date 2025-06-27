@@ -6,7 +6,7 @@
 
 <br>
 
-- 👩🏻‍💻 I'm currently pursuing B.Tech Information Technology at K.S.Rangasamy College of Technology                                             
+- 👩🏻‍💻 I'm currently pursuing B.Tech in Information Technology at K.S.Rangasamy College of Technology                                             
 - 💻 Aspiring full-stack developer with a passion for technology, focused on building user-friendly applications.I excel in both front-end and back-end development, with a strong passion for cloud technologies and AI integration.
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements in FAANG
